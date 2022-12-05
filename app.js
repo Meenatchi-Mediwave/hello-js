@@ -1,3 +1,3 @@
 // this is a comment
-console.log('Hello js')
+console.log('Hello js!')
 
